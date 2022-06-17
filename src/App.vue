@@ -1,15 +1,16 @@
 <template>
-  <div id="app">
+  <div id="sys-app">
     <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/sys/home">sysHome</router-link> |
+      <router-link to="/sys/about">sysAbout</router-link>
+      <router-link to="/sys/other">/sys/other</router-link>
     </nav>
-    <router-view/>
+    <router-view />
   </div>
 </template>
 
 <style>
-#app {
+#sys-app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

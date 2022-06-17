@@ -1,0 +1,2 @@
+"use strict";(self["webpackJsonp_sys"]=self["webpackJsonp_sys"]||[]).push([[44],{8044:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var s=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("h1",[e._v("other-view")])])}],l={},u=l,c=t(1001),f=(0,c.Z)(u,s,r,!1,null,null,null),i=f.exports}}]);
+//# sourceMappingURL=44-legacy.d8a7bc41.js.map
